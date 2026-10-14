@@ -1,0 +1,4 @@
+# Milestone 01 — data ingestion
+# Keep dependencies minimal until the retrieval stage.
+requests>=2.32,<3.0
+lxml>=5.0,<7.0
